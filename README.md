@@ -5,11 +5,11 @@ We recommend to follow some tutorials over the internet in order to replicate th
 Start with [this](https://youtube.com/playlist?list=PLNyfXcjhOAwO5HNTKpZPsqBhelLF2rWQx&si=JP6wjN-cqGAb2lGn) introductory playlist to STM microcontrollers.
 
 The rest of the repo will be filled with small tutorials and notes, to follow in the following order:
-(...) Insert fields.
 
+- [Installation Guide](installationGuide.md)
+- [Creating a Project in CubeMX](creatingAProjectInCubeMX.md)
 - [Quick Introduction To Terms](introToTerms.md)
 - [Coding and Commenting Guidelines](namingConventionsAndCommentingSuggestions.md)
-- [Creating a Project in CubeMX](creatingAProjectInCubeMX.md)
 - [Blinking LED](blinkingLED.md)
 - [Uart Guide](Uart%20Guide/)
 
