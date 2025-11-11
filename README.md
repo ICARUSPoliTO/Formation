@@ -11,6 +11,6 @@ The rest of the repo will be filled with small tutorials and notes, to follow in
 - [Coding and Commenting Guidelines](namingConventionsAndCommentingSuggestions.md)
 - [Creating a Project in CubeMX](creatingAProjectInCubeMX.md)
 - [Blinking LED](blinkingLED.md)
-- [Uart Guide](Uart Guide/)
+- [Uart Guide](Uart Guide)
 
 Good luck, and may the Flash Release be with you!
