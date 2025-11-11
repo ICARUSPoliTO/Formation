@@ -8,7 +8,8 @@ The rest of the repo will be filled with small tutorials and notes, to follow in
 (...) Insert fields.
 
 - [Quick Introduction To Terms](introToTerms.md)
+- [Coding and Commenting Guidelines](namingConventionsAndCommentingSuggestions.md)
 - [Blinking LED](blinkingLED.md)
-- 
+- [Uart Guide]()
 
 Good luck, and may the Flash Release be with you!
