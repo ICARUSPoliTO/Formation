@@ -7,7 +7,8 @@ Start with [this](https://youtube.com/playlist?list=PLNyfXcjhOAwO5HNTKpZPsqBhelL
 The rest of the repo will be filled with small tutorials and notes, to follow in the following order:
 (...) Insert fields.
 
-- [Blinking LED](blinkingLED.md)
 - [Quick Introduction To Terms](introToTerms.md)
+- [Blinking LED](blinkingLED.md)
+- 
 
 Good luck, and may the Flash Release be with you!
